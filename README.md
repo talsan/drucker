@@ -1,4 +1,4 @@
-# Scrape Annual Drucker Company Ratings from 2017 to 2022
+# Scrape Annual Drucker Company Ratings
 Provides 6 years of Drucker Ratings Across ~800 Large-Cap Domestic Companies.
 
 #### Data Can Be Downloaded Here
