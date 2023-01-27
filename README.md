@@ -18,5 +18,7 @@ The Drucker Institute brings together five dimensions of corporate performance
 4. Social Responsibility 
 5. Financial Strength—to create a holistic perspective
 
-![output_example](https://github.com/talsan/drucker/blob/master/assets/drucker_methodology.PNG)
+![drucker_methodology](https://github.com/talsan/drucker/blob/master/assets/drucker_methodology.PNG)
+
+#### Learn More Here
 https://www.drucker.institute/2022-methodology-for-the-drucker-institutes-company-rankings/
